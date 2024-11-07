@@ -1,2 +1,2 @@
 # bibtest
-Tools for 
+Tools for Wikipedia ISBN verification
